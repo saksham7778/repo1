@@ -1,10 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is 34E6-FB4D
-
- Directory of C:\Users\Lenovo\Desktop\hey
-
-06-10-2018  21:27    <DIR>          .
-06-10-2018  21:27    <DIR>          ..
-06-10-2018  21:27                 0 text1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  25,773,731,840 bytes free
+hey peeps
